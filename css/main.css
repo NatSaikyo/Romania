@@ -33,6 +33,7 @@
     color: white;
     font-weight: 700;
     letter-spacing: .07rem;
+    margin-bottom: 4rem;
 }
 
 .link:hover {
@@ -62,4 +63,355 @@
 .titulo p {
     font-size: 1rem;
     line-height: 1.25rem;
+}
+
+#historia {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+    margin-top: 6rem;
+    font-size: 2rem;
+}
+
+#cultura {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+    margin-top: 6rem;
+    font-size: 2rem;
+}
+
+#info {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+    margin-top: 6rem;
+    font-size: 2rem;
+}
+
+#politica {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+    margin-top: 6rem;
+    font-size: 2rem;
+}
+
+#turismo {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+    margin-top: 6rem;
+    font-size: 2rem;
+}
+
+.pre_historia {
+    display: flex;
+    justify-content: center;
+    margin-inline: 10rem;
+}
+
+.pre_historia_block {
+    background-color: #fff;
+    padding: 3em;
+    margin-right: 2rem;
+    border-radius: 10px;
+}
+
+.pre_historia_titulo {
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.pre_historia_conteudo {
+    font-size: .9rem;
+    text-align: justify;
+    margin-top: 2rem;
+    margin-inline: 3rem;
+}
+
+.pre_historia_image {
+    width: 20rem;
+}
+
+.dacia {
+    margin-inline: 10rem;
+    margin-top: 3rem;
+    background: #fff;
+    padding: 3rem;
+    border-radius: 10px;
+}
+
+.dacia_titulo {
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.dacia_conteudo {
+    font-size: .9rem;
+    text-align: justify;
+}
+
+.idade_media {
+    display: flex;
+    justify-content: center;
+    margin-inline: 10rem;
+    margin-top: 3rem;
+}
+
+.idade_media_image {
+    width: 20rem;
+}
+
+.idade_media_block {
+    background: #fff;
+    margin-left: 2rem;
+    padding: 3rem;
+    border-radius: 10px;
+}
+
+.idade_media_titulo {
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.idade_media_conteudo {
+    font-size: .9rem;
+    text-align: justify;
+}
+
+.nacional {
+    background: #fff;
+    margin-top: 3rem;
+    margin-inline: 10rem;
+    padding: 3rem;
+    border-radius: 10px;
+}
+
+.nacional_titulo {
+    font-size: 1.25rem;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.nacional_conteudo {
+    font-size: .9rem;
+    text-align: justify;
+}
+
+.reino {
+    margin-top: 3rem;
+    margin-inline: 10rem;
+    display: flex;
+    align-items: center;
+}
+
+.reino_block {
+    background: #fff;
+    padding: 3rem;
+    border-radius: 10px;
+    margin-right: 2rem;
+}
+
+.reino_titulo {
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.reino_antigo {
+    font-size: 1rem;
+    margin-bottom: .5rem;
+}
+
+.reino_maior {
+    font-size: 1rem;
+    margin-bottom: .5rem;
+    margin-top: 1.25rem;
+}
+
+.reino_conteudo {
+    font-size: .9rem;
+    text-align: justify;
+}
+
+.reino_image {
+    width: 20rem;
+    height: 20rem;
+}
+
+.cultura {
+    margin-inline: 10rem;
+}
+
+.cultura_block {
+    display: flex;
+    align-items: center;
+}
+
+.cultura_conteudo {
+    background: #fff;
+    padding: 3rem;
+    text-align: justify;
+    font-size: .9rem;
+    border-radius: 10px;
+    margin-right: 2rem;
+}
+
+.cultura_image {
+    height: 20rem;
+}
+
+.castelo {
+    width: 64.5rem;
+    margin-top: 2rem;
+}
+
+.info {
+    margin-inline: 10rem;
+    display: flex;
+}
+
+.info01 {
+    background: #fff;
+    padding: 3rem;
+    font-size: .9rem;
+    line-height: 1.25rem;
+    border-radius: 10px;
+    margin-right: 1.5rem;
+}
+
+.info02 {
+    background: #fff;
+    padding: 3rem;
+    font-size: .9rem;
+    line-height: 1.25rem;
+    border-radius: 10px;
+    margin-right: 1.5rem;
+}
+
+.info03 {
+    background: #fff;
+    padding: 3rem;
+    font-size: .9rem;
+    line-height: 1.25rem;
+    border-radius: 10px;
+}
+
+.politica {
+    margin-inline: 10rem;
+    display: flex;
+}
+
+.politica_block {
+    background: #fff;
+    padding-top: 5rem;
+    padding-inline: 6rem;
+    font-size: .9rem;
+    text-align: justify;
+    border-radius: 10px;
+    margin-left: 2rem;
+}
+
+.presidente {
+    width: 15rem;
+}
+
+.bran {
+    margin-inline: 10rem;
+    display: flex;
+}
+
+.bran_block {
+    background: #fff;
+    padding: 3rem;
+    border-radius: 10px;
+    margin-right: 2rem;
+}
+
+.bran_titulo {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.bran_conteudo {
+    font-size: .9rem;
+    text-align: justify;
+}
+
+.bran_image {
+    width: 20rem;
+}
+
+.gardens {
+    margin-inline: 10rem;
+    display: flex;
+    margin-block: 2rem;
+}
+
+.gardens_image {
+    width: 20rem;
+}
+
+.gardens_block {
+    background: #fff;
+    padding: 3rem;
+    border-radius: 10px;
+    margin-left: 2rem;
+}
+
+.gardens_titulo {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.gardens_conteudo {
+    font-size: .9rem;
+    text-align: justify;
+}
+
+.museu {
+    margin-inline: 10rem;
+    display: flex;
+    margin-bottom: 2rem;
+}
+
+.museu_block {
+    background: #fff;
+    padding: 3rem;
+    border-radius: 10px;
+    margin-right: 2rem;
+}
+
+.museu_titulo {
+    font-size: 1.25rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.museu_conteudo {
+    font-size: .9rem;
+    text-align: justify;
+}
+
+.museu_image {
+    width: 20rem;
 }

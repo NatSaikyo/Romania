@@ -6,6 +6,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -15,8 +16,8 @@ body {
 
 body {
     background-image: url(../images/romania_flag_dark.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat-y;
+    background-size: contain;
 }
 
 h1 {
@@ -29,4 +30,8 @@ h1 {
 
 a {
     text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
 }
