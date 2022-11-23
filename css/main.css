@@ -1,0 +1,65 @@
+.header {
+    padding-block: 10rem;
+    display: flex;
+    justify-content: center;
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    padding-block: 2rem;
+}
+
+.guia {
+    color: #fff;
+    text-decoration: none;
+}
+
+.first_section {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding-block: 5rem;
+    align-items: center;
+}
+
+.link {
+    padding-block: .5rem;
+    padding-inline: 1rem;
+    margin-inline: 1rem;
+    border-radius: 2rem;
+    border-color: white;
+    background: none;
+    color: white;
+    font-weight: 700;
+    letter-spacing: .07rem;
+}
+
+.link:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    transition: .35s;
+}
+
+.button {
+    color: white;
+}
+
+.map {
+    width: 20rem;
+}
+
+.titulo {
+    margin-right: 5rem;
+}
+
+.titulo h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
+.titulo p {
+    font-size: 1rem;
+    line-height: 1.25rem;
+}
